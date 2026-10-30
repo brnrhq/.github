@@ -5,7 +5,7 @@
 Do not open a public issue for a security problem.
 
 Report it privately with GitHub private vulnerability reporting: open the repository's **Security** tab and click
-**Report a vulnerability**. If that is not available, send an email to https://github.com/brnrhq.
+**Report a vulnerability**.
 
 Include the affected repository and version, the steps to reproduce, and the impact you expect.
 
