@@ -6,6 +6,8 @@ Do not open a public issue for a security problem.
 
 Report it privately with GitHub private vulnerability reporting: open the repository's **Security** tab and click
 **Report a vulnerability**.
+GitHub explains the steps in
+https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/report-privately.
 
 Include the affected repository and version, the steps to reproduce, and the impact you expect.
 
